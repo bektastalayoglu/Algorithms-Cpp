@@ -8,6 +8,8 @@ int main(int argc, char *argv[])
     vect.addLast(1);
     vect.addLast(2);
     vect.addLast(3);
+    vect.addLast(4);
+    vect.addLast(5);
 
     vect.print();
 
